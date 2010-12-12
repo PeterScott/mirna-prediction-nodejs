@@ -38,5 +38,6 @@ This is no longer being actively maintained. If you have a use for it,
 and you would like to take over the project, just fork it on
 GitHub. You have my blessing.
 
-Peter Scott
+Peter Scott,
+
 December 2010
