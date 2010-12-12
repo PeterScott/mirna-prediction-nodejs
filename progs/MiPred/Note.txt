@@ -1,0 +1,1 @@
+This version assumes that the RandomForest (R package)  and the RNAFold (ViennaRNA package) are installed  on your system.

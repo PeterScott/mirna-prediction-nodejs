@@ -1,0 +1,60 @@
+>fake1
+CUCCGAACUGCUAGGCGAGUUCGAUGGACGCGCCCUCCCGCCGUGCUACGACCGCUCCUGUGGACGGAGACACACGAGGACCCCGAGAGACGAAA
+(((((........((((.(((.....))).)))).(((((..(((((.((.((((....)))).)).)).))).)).)))...)).)))...... (-30.10)
+>fake2
+GGGCCGCCGGGUGUCGGCAAGACGGCGGCCGUCCGCGCACUCGCCCGUAAGUCCCACGAGGACCCCGAGAGACGAAACUCAUCCCGCCGAUUCGCUCGCG
+.((((((((..((....))...))))))))...((.((....)).))...((((.....))))..((.(((.((((..((........))))))))).)) (-34.60)
+>fake3
+GACGAAACUCAUCCCGCCGAUUCGCUCGCGGUGUUUCCCGGUUCCCGUCCGCGCACCCUCUCGCCCGU
+((((.((((.....(((((.........)))))......))))..)))).(((........))).... (-12.70)
+>fake4
+AGAGUUCGGCGAGGCGGACGUGAUGCGUCUACACCGCCUUGUAACACCCACACUACAGUUUAGACCUGACAGAA
+.(.((...((((((((((((.....))).....)))))))))...)).)......(((.......)))...... (-18.80)
+>fake5
+UCUUCCGUGAUCCAGAGCGGAGACCCUCGGCACAGGGCAUCAUUUCGCCCGCCGACGGUCGCGUGUCAGU
+...(((((........)))))((((.(((((...((((........))))))))).)))).......... (-28.20)
+>fake6
+AUCGGCCACAUCGACUUCGGGAGUCGCGCUGACGUACUCCUCCCGCCGUGCUACGACCGCUCUGACCUCC
+.((((.....(((((..((((((..(..(....)..)..))))))..))....))).....))))..... (-15.70)
+>fake7
+GCUCGGCUAUCUGACGUACGAGUCGUUACUCUCGACCACUACCCGCGGUUGGCGGUGGU
+(((((((........)).)))))..(((((.((((((.(.....).)))))).))))). (-15.30)
+>fake8
+GACUGUCCUGUACGCCUUAUUGGCUCUCUUGAGUACGGCCCCGGUGUAGAUAGGUCGAACACGGCGCAGU
+.((((((((((.((.((((((.((((....)))).((....)).....)))))).)).))).)).))))) (-20.20)
+>fake9
+CCGCCGUCGGUACGGCCGUGCAUGAACGCACUCUGUAUUAUCGGUGGGCGAGUUCUCCGCCCAGACUGUU
+..((((..(((((((..((((......)))).)))))))..))))(((((.......)))))........ (-27.10)
+>fake10
+AGCACAUGCCCAUCCUGAACGAUCCCGCCGUGCUACGACCGCUCACUGCGCGAUCAGUUCGAGGCCGAGAAACCCCUCGACGGCGAGGUCAU
+.((.(.((((...(((((((((((.(((.(((...(....)..))).))).)))).)))).))).((((......))))..)))).)))... (-27.00)
+>fake11
+GUCUUCUCCCGGAUUGACCGAGCGACGACAGAACGAUCUUUCGACGCGGGUGUCCCGCCGUGCUACGACCGCUCUGUUUCGAGUGUGCGUCA
+(((.((.(.(((.....))).).)).)))....(((....)))..(((((...)))))......(((..(((((......)))))..))).. (-27.10)
+>fake12
+CACGGCUACGACGUAACUGCGACCAAUCCUUCGCCCGACAGCCAGACCGAGAAUCGACUCACGUGGCAGU
+....((((((..((....((((........))))...)).........(((......))).))))))... (-16.20)
+>fake13
+GAGAUGCGUCGGAAGAUACUCGUCUCCGUCGUCGCAGUCGGCUUCUUCAUCUCACUCAUGUAACACCCACACUACAGUUGUAGGGGUCG
+((((((((.((((.(((....))))))).))..((.....)).....))))))...........((((...((((....)))))))).. (-23.90)
+>fake14
+AUGGUACGAGAUGGUCGGUCUCUCGUGGUCGGAGACGAGAGAAAAAGUCAUCUCGUGGCUCGAAGAAAGC
+..(.((((((((((.(..((((((((........))))))))....))))))))))).)........... (-27.70)
+>fake15
+CCGAUCCUCCGGUCAGUACUGUCACGGAGUAGCAGAGGACGAUGUAACACCCACACUACAGCACCGAACGUCA
+..(((....(((((.(((.(((...((.((.(((........))).)).)).))).))).).))))...))). (-14.00)
+>fake16
+CAGUCGAAUCUUACACUCAUCGACGAGUACGCUCACCGAAUCCAGCGCGUCCCGAAGUGUGGAGGCGCUC
+..(((((............)))))(((....))).........(((((.(((........))).))))). (-19.10)
+>fake17
+AUGGCUCGUUUGAACGCUGAAUUGAACGAUUCCCGCCGUGCUACGACCGCUCUUGGGAAAUCAGGCCCCAAGAUUAUUCGAUCAAAUAACCA
+((((((((((..(........)..))))).....)))))....(((....(((((((.........)))))))....)))............ (-22.60)
+>fake18
+GCGGCGUGUGUCCGUCGGUGGUGACGUGACCUGUUCAAGCGGACGUGAGGCUCCGCCAGAGUAUGUCGG
+.(((((((.((((((((....))))).)))....((..((((((....)..)))))..)).))))))). (-24.70)
+>fake19
+CCCGUUUCGAAGCCCUUCGAACAACAACCGCGAGUGUAACACCCACACUACAGACGGCAUCGACACCACCGAGGUCGCCAGCAAACAGC
+...(((.((((....))))))).......((.(((((.......)))))...(.((((.(((.......))).)))).).))....... (-17.90)
+>fake20
+AUCCAACCCCGAAUCACGGAGCGCCACGAGUUGGUAGGCGAUGUAGGCUCCCGCCGUGCUACGACCGCUCGUCGCGUUCGUCGAUGAGCGCU
+.........((.((((((.(((((.((((((.(((.((((.....(((....))).))))...))))))))).)))))))).)))...)).. (-33.30)

@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>miRNA Predictor</title>
+<script src="/socket.io/socket.io.js"></script>
+<script src="jquery-1.4.4.min.js"></script>
+<script src="client.js"></script>
+<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<h1>pre-miRNA Predictor</h1>
+<div id="maindiv">
+
+<p id="explanation">Enter one or more sequences in FASTA format, and the predictor will
+run <a href="http://bioinfo.au.tsinghua.edu.cn/mirnasvm/">Triplet-SVM</a>
+and <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1933124/">
+MiPred</a> to determine whether or not each sequence is likely to be a
+<a href="http://en.wikipedia.org/wiki/MicroRNA">pre-miRNA</a>.
+Because MiPred is much slower than Triplet-SVM, no attempt is made to
+combine their results into an ensemble classifier; however, their
+results <i>will</i> be shown side-by-side for comparison.
+<a href="#" onclick="show_example();">Click here to try an example.</a></p>
+  
+<div><textarea id="fasta" rows="20" cols="80"></textarea></div>
+
+<div class="center"><input type="submit" value="Classify!" id="submitbutton" onclick="classify();"></div>
+
+<div id="results-splitter">
+  <div id="leftpane">
+    <h2 class="center">Triplet-SVM results</h2>
+    <div id="tsvm-results"></div>
+  </div>
+  <div id="rightpane">
+    <h2 class="center">MiPred results</h2>
+    <div id="mipred-results"></div>
+  </div>
+</div>
+
+</div>
+
+</body> </html>

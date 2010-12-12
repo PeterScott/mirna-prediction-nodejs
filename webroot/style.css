@@ -1,0 +1,122 @@
+#submitbutton {
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 10px;
+}
+
+#maindiv {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background: white;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 300%;
+    font-family: 'Garamond', serif;
+    text-shadow: 2px 2px 5px #999999;
+    filter: dropshadow(color=#999999, offx=2, offy=2);
+    margin-bottom: 1px;
+}
+
+h2 {
+    width: 60%;
+    font-size: 200%;
+    font-family: 'Garamond', serif;
+    text-shadow: 1px 1px 3px #999999;
+    filter: dropshadow(color=#999999, offx=1, offy=1); 
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, tr, td, th {
+    border: thin black solid;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+th {
+    background: #FF1091;
+    border-bottom: medium black solid;
+    font-family: 'Garamond', serif;
+    font-size: 16pt;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px #550055;
+    filter: dropshadow(color=#ff00ff, offx=1, offy=1); 
+}
+
+/* Pseudo pre-miRNA */
+tr.result0 {
+    background: #C7DECA;
+    /* background: #E5D89A; */
+}
+
+/* No hairpin structure */
+tr.result1 {
+    background: #BFC6A7;
+    /* background: #E495CA; */
+}
+
+/* True pre-miRNA */
+tr.result2 {
+    background: #DFEDBB;
+    /* background: #95E4AF; */
+}
+
+#results-splitter {
+    margin-top: 1cm;
+    border-top: medium #444 solid;
+    width: 100%;
+    display: none;
+}
+
+#leftpane {
+    width: 49%;
+    float: left;
+    border-right: medium #444 solid;
+}
+
+#rightpane {
+    width: 49%;
+    float: right;
+}
+
+#results-splitter p {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+#tsvm-results {
+    padding-bottom: 1cm;
+}
+
+#mipred-results {
+    padding-bottom: 1cm;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cancel-button {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+#explanation {
+    width: 50%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
